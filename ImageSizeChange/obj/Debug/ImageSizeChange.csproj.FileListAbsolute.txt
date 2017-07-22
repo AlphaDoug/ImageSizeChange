@@ -1,0 +1,13 @@
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\bin\Debug\ImageSizeChange.exe.config
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\bin\Debug\ImageSizeChange.exe
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\bin\Debug\ImageSizeChange.pdb
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\MainWindow.g.cs
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\App.g.cs
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\ImageSizeChange_MarkupCompile.cache
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\ImageSizeChange_MarkupCompile.lref
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\MainWindow.baml
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\ImageSizeChange.g.resources
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\ImageSizeChange.Properties.Resources.resources
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\ImageSizeChange.csproj.GenerateResource.Cache
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\ImageSizeChange.exe
+c:\users\doug\documents\visual studio 2015\Projects\ImageSizeChange\ImageSizeChange\obj\Debug\ImageSizeChange.pdb
